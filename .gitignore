@@ -1,0 +1,19 @@
+# Dependency folder (jika ada)
+vendor/
+node_modules/
+
+# Environment & config
+.env
+
+# Logs & cache
+*.log
+*.cache
+*.tmp
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
